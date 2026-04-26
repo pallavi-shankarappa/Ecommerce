@@ -61,8 +61,7 @@ This project was built to demonstrate industry-standard development practices, i
 
 #### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/urbancart.git
-cd urbancart
+git clone https://github.com/pallavi-shankarappa/Ecommerce.git
 ```
 
 #### **Step 2: Backend Configuration**
