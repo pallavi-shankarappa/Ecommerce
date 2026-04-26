@@ -1,7 +1,6 @@
-<img width="1920" height="1080" alt="Screenshot 2026-04-26 083154" src="https://github.com/user-attachments/assets/9891c2f0-eea6-49bc-b459-79a7269415ee" /><img width="1920" height="1080" alt="Screenshot 2026-04-26 083154" src="https://github.com/user-attachments/assets/9ad1353d-a190-43c7-b3a1-bf730e7a252d" /># 🛒 UrbanCart - Full-Stack E-Commerce Platform (MERN)
+# 🛒 UrbanCart - Full-Stack E-Commerce Platform (MERN)
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/urbancart?style=social)](https://github.com/yourusername/urbancart)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/pallavi-shankarappa/Ecommerce?style=social)](https://github.com/pallavi-shankarappa/Ecommerce)
 
 UrbanCart is a feature-rich, full-stack E-commerce application designed with a focus on clean architecture, scalability, and exceptional user experience. Built with the **MERN stack**, it features a modern customer frontend, a robust admin dashboard, and a secure RESTful API.
 
