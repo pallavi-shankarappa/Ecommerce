@@ -120,6 +120,6 @@ urbancart/
 
 **Your Name**
 - GitHub: [Pallavi-shankarappa](https://github.com/pallavi-shankarappa)
-- LinkedIn: [Your Profile](https://linkedin.com/in/pallavi-shankarappa)
+- LinkedIn: [pallavi(https://linkedin.com/in/pallavi-shankarappa)
 
 
