@@ -1,0 +1,49 @@
+/* 1. Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Prata&display=swap');
+
+/* 2. Tailwind Base, Components, Utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 3. Global Font */
+* {
+  font-family: 'Outfit', sans-serif;
+}
+
+/* 4. Prata font utility class */
+.prata-regular {
+  font-family: 'Prata', serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* 5. Hide Scrollbar */
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* 6. Active link underline (desktop) */
+a.active hr {
+  display: block;
+}
+
+/* 7. Mobile Active Nav Styling */
+@media (max-width: 640px) {
+  a.active {
+    background-color: black;
+    color: white;
+  }
+}
+.about-content p {
+  margin-bottom: 16px; /* or adjust to your design */
+  line-height: 1.6;
+}
+
+.about-content h2 {
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+
+/* 8. Optional: Custom gradient class (if used in JSX) */
+
