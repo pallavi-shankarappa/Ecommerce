@@ -1,4 +1,4 @@
-# 🛒 UrbanCart - Full-Stack E-Commerce Platform (MERN)
+<img width="1920" height="1080" alt="Screenshot 2026-04-26 083154" src="https://github.com/user-attachments/assets/9891c2f0-eea6-49bc-b459-79a7269415ee" /><img width="1920" height="1080" alt="Screenshot 2026-04-26 083154" src="https://github.com/user-attachments/assets/9ad1353d-a190-43c7-b3a1-bf730e7a252d" /># 🛒 UrbanCart - Full-Stack E-Commerce Platform (MERN)
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/urbancart?style=social)](https://github.com/yourusername/urbancart)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -101,12 +101,17 @@ urbancart/
 
 ## 📸 Screenshots & Demo
 
-> **Note**: Replace placeholders with your actual screenshots for a better recruiter impression.
+- **Home Page**:
+  <img width="1920" height="1080" alt="Screenshot 2026-04-26 083154" src="https://github.com/user-attachments/assets/eb8c6c6f-0229-4953-bb3d-a7e6e09841b4" />
+- **Collection View**:
+  <img width="1920" height="1080" alt="Screenshot 2026-04-26 083207" src="https://github.com/user-attachments/assets/e6839bfb-ab1a-4ad0-b736-661a21e62c82" />
 
-- **Home Page**: `[Add Image Link Here]`
-- **Collection View**: `[Add Image Link Here]`
-- **Product Details**: `[Add Image Link Here]`
-- **Admin Dashboard**: `[Add Image Link Here]`
+- **Product Details**:
+  <img width="1920" height="1080" alt="Screenshot 2026-04-26 083232" src="https://github.com/user-attachments/assets/50dba114-b65f-48a8-a124-45c277d390fd" />
+
+- **Admin Dashboard**:
+  <img width="1920" height="1080" alt="Screenshot 2026-04-26 084137" src="https://github.com/user-attachments/assets/5c114a21-36cd-4971-b2fd-7e1e2ce8e078" />
+
 
 **Live Demo**: [Link to your hosted app]
 
@@ -115,10 +120,7 @@ urbancart/
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [Pallavi-shankarappa](https://github.com/pallavi-shankarappa)
+- LinkedIn: [Your Profile](https://linkedin.com/in/pallavi-shankarappa)
 
----
 
-## ⚖️ License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
